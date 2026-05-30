@@ -52,15 +52,15 @@ Passionate about building scalable backend systems, APIs, and solving real-world
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedantmore121&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Vedantmore121&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantmore121&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ Passionate about building scalable backend systems, APIs, and solving real-world
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: [(https://www.linkedin.com/in/vedant-more-2259a22b7 )]
+- 💼 LinkedIn: (https://www.linkedin.com/in/vedant-more-2259a22b7 )
 - 📧 Email: vedantmore121@gmail.com
 
 ---
